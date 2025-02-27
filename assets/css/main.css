@@ -66,8 +66,8 @@ body {
 }
 
 .about-image {
-    width: 300px;  /* Adjust size as needed */
-    height: 300px; /* Ensure it's a perfect circle */
+    width: 350px;  /* Adjust size as needed */
+    height: 350px; /* Ensure it's a perfect circle */
     border-radius: 50%; /* Makes it a circle */
     object-fit: cover; /* Ensures the image is properly cropped */
     display: block; /* Avoids inline spacing issues */
